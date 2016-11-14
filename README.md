@@ -3,3 +3,4 @@
 - 朝阳项目中也用到了Shiro，而且涉及了自己的login的controller和数据库的验证。但是数据库只有用户权限两张表。在霍老师dell电脑oracle的wmx用户下。
 - 涉及的页面有ShowChaoKuaiImages.jsp、ShowKuaiSuImages.jsp、Failed.jsp、login.jsp
 - 极客学院WiKi-拦截器机制中有一张表格展示了授权中的anno和三authc；授权中展示了三种授权方式；JSP标签中展示了各个JSP标签的使用方式
+- 在D:\IntellRegion\SchoolBeijingExercise下面有去年营区的第一次验收的项目，其中使用到了shiro，使用了自定义的Realm（域），shiro验证需要使用principals（身份）和credentials（凭证/证明）
